@@ -1,4 +1,4 @@
-/home/nitin/Desktop/projects/e-commerce-site/MinMerch.png
+![Uploading MinMerch.png…]()
 
 
 ### To intsall all rhe required dependecies
