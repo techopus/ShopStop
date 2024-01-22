@@ -1,3 +1,6 @@
+/home/nitin/Desktop/projects/e-commerce-site/MinMerch.png
+
+
 ### To intsall all rhe required dependecies
 
 ```
