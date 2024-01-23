@@ -1,5 +1,8 @@
 ![Uploading MinMerch.png…]()
 
+There might arise a recurring compaatibility issue with node and npm versions. You might have npm 6.x version installed and node 21.x v installed. So, just make one of it upgraded to compatible version. Here, I just downgrade node version to 10.x(compatible to npm 6.x) using: nvm use 10.
+
+Check node and npm version using: node -v and npm -v , if the versions are compatible before running.
 
 ### To intsall all the required dependecies
 
