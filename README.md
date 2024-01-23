@@ -1,4 +1,5 @@
-![Uploading MinMerch.png…]()
+![MinMerch](https://github.com/techopus/ShopStop/assets/92953798/02e8ccb2-aa15-427b-9718-98688e3b860a)
+
 
 
 ### To intsall all the required dependecies
