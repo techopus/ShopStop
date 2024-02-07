@@ -1,4 +1,4 @@
-![MinMerch](https://github.com/techopus/ShopStop/assets/92953798/02e8ccb2-aa15-427b-9718-98688e3b860a)
+![MinMerch](https://github.com/techopus/ShopStop/assets/92953798/228a1587-7d37-4719-802d-558c26a7618d)
 
 
 There might arise a recurring compaatibility issue with node and npm versions. You might have npm 6.x version installed and node 21.x v installed. So, just make one of it upgraded to compatible version. Here, I just downgrade node version to 10.x(compatible to npm 6.x) using: nvm use 10.
